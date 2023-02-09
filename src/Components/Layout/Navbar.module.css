@@ -1,0 +1,45 @@
+.main-image img{ 
+position: absolute;
+width: 11rem;
+height: 5rem;
+left: 2rem;
+top: 2rem;
+}
+.link{
+    position: absolute;
+    width: 13rem;
+    height: 4rem;
+    top: 1.8rem;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 2rem;
+line-height: 60px;
+display: flex;
+align-items: center;
+
+color: #01078F;
+
+}
+.home{
+    right: 41rem;
+}
+.Home{
+    right: 28rem;
+}
+.ContactUs{
+   right: 15rem;
+}
+.OurProduct{
+    right: 2rem;
+}
+.Background{
+    position: absolute;
+width: 32.5rem;
+height: 55rem;
+left: 62.5rem;
+top: -52px;
+
+background: #7296DB;
+border-radius: 0px 0px 0px 500px;
+}

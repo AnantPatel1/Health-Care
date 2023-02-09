@@ -1,0 +1,77 @@
+.Header{
+    position: absolute;
+width: 767px;
+height: 10rem;
+left: 105px;
+top: 17rem;
+
+font-family: 'Times New Roman';
+font-style: normal;
+font-weight: 659;
+font-size: 5.7rem;
+line-height: 7rem;
+display: flex;
+align-items: center;
+
+color: #080C66;
+}
+.mainImg{
+    position: absolute;
+width: 38rem;
+height: 40rem;
+left: 52rem;
+top: 12rem;
+filter: drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+}
+.SupportImg{   
+position: absolute;
+width: 4rem;
+height:4rem;
+left: 23.2rem;
+top: 27rem;
+}
+.Text{
+    position: absolute;
+width: 35rem;
+height: 7.8rem;
+left: 6rem;
+top:33rem;
+
+font-family: 'Times New Roman';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+display: flex;
+align-items: flex-start;
+
+color: #000000;
+
+}
+.Btn{
+    position: absolute;
+width:27rem;
+height: 6rem;
+left: 5rem;
+top: 42rem;
+
+background: #3874EA;
+box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+}
+.Btntext{
+    position: absolute;
+    width:70%;
+    height: 3rem;
+    left:4rem;
+    top: -1rem;
+    
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46px;
+    align-items: flex-start;
+    
+    color: #ffff;
+}
